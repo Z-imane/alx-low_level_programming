@@ -14,7 +14,7 @@ char buffer[] = "This is a string!\0And this is the rest of the #buffer"
 
 "\n\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\x20\x21\x34\x56#pointersarefun"
 
-" #infernumisfun\n";
+" #infernumi  sfun\n";
 
 printf("%s\n", buffer);
 printf("---------------------------------\n");
